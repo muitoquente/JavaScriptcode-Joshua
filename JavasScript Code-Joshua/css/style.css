@@ -1,3 +1,22 @@
 body{
-    background-color: azure;
+    background-color: rgb(76, 182, 182);
 }
+
+.btn-click{
+background-color: rgb(5, 120, 5);
+color: blanchedalmond;
+border: 2px solid rgb(16, 72, 16);
+font-size: 20px;
+border-radius: 6px;
+padding: 10px;
+cursor: pointer;
+}
+.btn-reiniciar{
+    background-color: rgb(120, 18, 5);
+    color: blanchedalmond;
+    border: 2px solid rgb(82, 8, 7);
+    font-size: 20px;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer;
+    }
